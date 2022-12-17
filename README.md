@@ -4,24 +4,6 @@
 This is the CAD for all the swerve modules from version 1 to 5, 
 and the Spin Up 18" robot for the GUARD VEX U team.
 
-## PROTECTED INFORMATION
-
-Any information of, or suggestions regarding, GUARD's swerve development
-should not be given to any other VEX teams (apart from 34565A), and the
-project should be considered "secret" until the club executive committee 
-agree to the release of the information, which should be some time on
-competition week.
-
-Some reasons are:
-
-- Knowledge about other teams' drivetrains provide a competitive advantage
-which could impact the result of the competition,
-- Swerve is a high-effort, high-reward endeavour. Leaked information,
-software, or CAD files lowers the barrier of entry and reduces our advantage.
-files would
-- It would be kind of embarassing if they expected to see a swerve robot
-but we ended up not being able to do it lol
-
 ## How to use this repo
 
 Two options:
